@@ -1,3 +1,4 @@
+screen.width(80)
 let bg = image.create(screen.width, screen.height)
 scene.setBackgroundImage(bg)
 // Any manipulations now done to bg will be shown on
